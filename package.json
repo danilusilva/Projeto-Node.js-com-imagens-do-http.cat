@@ -1,0 +1,13 @@
+{
+  "name": "atividade-ead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HTTP418.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
